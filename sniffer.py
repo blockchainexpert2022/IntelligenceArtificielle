@@ -2,7 +2,7 @@ import socket
 import os
 
 # host to listen on
-HOST = '172.27.170.251'
+HOST = '1.2.3.4'
 
 def main():
     # create raw socket, bind to public interface
