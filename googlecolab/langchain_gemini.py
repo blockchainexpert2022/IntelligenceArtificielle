@@ -1,7 +1,5 @@
 !pip install -qU "langchain[google-genai]"
 
-#AIzaSyBifMdAQ2kT5IgunZZVU-52k-sJK9wYCuA
-
 import getpass
 import os
 
